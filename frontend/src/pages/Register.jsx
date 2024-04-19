@@ -90,7 +90,7 @@ const Register = () => {
 
         {isLoading && <Loader />}
 
-        <Button type='submit' variant='primary' className='mt-3'>
+        <Button type='submit' variant='primary' className='w-100 mt-3'>
           Sign Up
         </Button>
 
